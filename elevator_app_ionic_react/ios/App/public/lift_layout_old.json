@@ -1,0 +1,81 @@
+{
+    "floors": [
+      {
+        "location_id": "Kamppi_Metro",
+        "name": "Kamppi Metro",
+        "icon": "./icons/icon1.png",
+        "about": "Kamppi Metro details",
+        "liftId": "KoneModel3",
+        "building": "citycenter",
+        "restricted": false,
+        "locationZones": [{
+            "elevatorCars": [{
+                "carId": "lobbyA_01",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyA_01 details",
+                "carProperties": {
+                    "currentFloor": 1,
+                    "numberOfFloor": 10,
+                    "floorsSelected": "2,6,7",
+                    "limitAccess": "4,5"
+                }
+            },
+            {
+                "carId": "lobbyA_02",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyA_02 details",
+                "carProperties": {
+                    "currentFloor": 3,
+                    "numberOfFloor": 10,
+                    "floorsSelected": "3,9",
+                    "limitAccess": "4,5"
+                }
+            },
+            {
+                "carId": "lobbyA_03",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyA_03 details",
+                "carProperties": {
+                    "currentFloor": 3,
+                    "numberOfFloor": 6,
+                    "floorsSelected": "-3,2",
+                    "limitAccess": ""
+                }
+            }]
+            },
+            {"elevatorCars": [{
+                "carId": "lobbyB_01",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyB_01 details",
+                "carProperties": {
+                    "currentFloor": 1,
+                    "numberOfFloor": 10,
+                    "floorsSelected": "2,6,7",
+                    "limitAccess": "4,5"
+                }
+            },
+            {
+                "carId": "lobbyB_02",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyB_02 details",
+                "carProperties": {
+                    "currentFloor": 3,
+                    "numberOfFloor": 10,
+                    "floorsSelected": "3,9",
+                    "limitAccess": "4,5"
+                }
+            },
+            {
+                "carId": "lobbyB_03",
+                "icon": "./icons/icon1.png",
+                "about": "lobbyB_03 details",
+                "carProperties": {
+                    "currentFloor": 3,
+                    "numberOfFloor": 6,
+                    "floorsSelected": "-3,2",
+                    "limitAccess": ""
+                }
+            }]
+        }]
+    }]
+}

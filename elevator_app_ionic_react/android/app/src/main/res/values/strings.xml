@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">elevator_app_ionic</string>
+    <string name="title_activity_main">elevator_app_ionic</string>
+    <string name="package_name">io.ionic.genera</string>
+    <string name="custom_url_scheme">io.ionic.genera</string>
+</resources>
