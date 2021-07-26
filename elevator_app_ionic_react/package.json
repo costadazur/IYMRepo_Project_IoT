@@ -34,7 +34,7 @@
     "@types/react-router": "^5.1.8",
     "@types/react-router-dom": "^5.1.5",
     "@types/showdown": "^1.9.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cordova-plugin-badge": "^0.8.8",
     "cordova-plugin-ble-central": "^1.2.5",
     "cordova-plugin-device": "^2.0.3",
@@ -92,7 +92,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "core-js": "^3.6.5",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.64.1",
     "zone.js": "^0.10.3"
   },
   "description": "An Ionic project"
